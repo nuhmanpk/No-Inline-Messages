@@ -13,5 +13,4 @@ bughunter0 = Client(
 async def inline(bot,message):
      await message.delete()
 	
-
 bughunter0.run()
